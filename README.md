@@ -1,4 +1,4 @@
-### This is a problem solvin from class component to function component
+### This is a problem solving from class component to function component
 
 ### Check problem-image.png then check this sollution in code...
 
