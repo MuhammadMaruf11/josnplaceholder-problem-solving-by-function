@@ -1,6 +1,6 @@
 ### This is a problem solving from class component to function component
 
-### Check problem-image.png then check this sollution in code...
+### Check problem-image.png then check this solution in code...
 
 
 ### `npm install`
