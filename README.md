@@ -1,7 +1,9 @@
 ### This is a problem solving from class component to function component
 
 ### Check problem-image.png then check this solution in code...
-
+<p align="center">
+  <img src="problem-image.png" title="main-bg">
+</p>
 
 ### `npm install`
 
